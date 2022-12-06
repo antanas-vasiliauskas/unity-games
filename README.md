@@ -13,6 +13,10 @@ https://github.com/antanas-vasiliauskas/unity-games/blob/main/video/broken_line_
 
 
 ### emoji rush
-https://github.com/antanas-vasiliauskas/unity-games/blob/main/video/emoji_rush_video.mp4
+https://user-images.githubusercontent.com/118690121/205920618-a469e161-84b4-40f7-844d-e1b3632add4c.mp4
+
+
+
+
 
 
