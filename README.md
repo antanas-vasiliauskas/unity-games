@@ -1,22 +1,6 @@
 # unity-games
 
 ### decube
-https://github.com/antanas-vasiliauskas/unity-games/blob/main/video/broken_line_video.mp4
-
-
-### zigzania
-https://github.com/antanas-vasiliauskas/unity-games/blob/main/video/zigzania_video.mp4
-
-
-### broken line
-https://github.com/antanas-vasiliauskas/unity-games/blob/main/video/broken_line_video.mp4
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">]([https://youtu.be/<VIDEO ID>](https://www.youtube.com/watch?v=ptBRGXFYh9c&list=WL&index=1))
-
-### emoji rush
-https://user-images.githubusercontent.com/118690121/205920618-a469e161-84b4-40f7-844d-e1b3632add4c.mp4
-
-
-
-
-
-
+![Screenshot_2022-12-06-15-14-46-242_com WeeGames deCube](https://user-images.githubusercontent.com/118690121/205923473-2f47a87f-7687-4931-8f0d-246c194785bc.jpg)
+![Screenshot_2022-12-06-15-14-54-487_com WeeGames deCube](https://user-images.githubusercontent.com/118690121/205923498-b2ec6f1f-663b-48f8-b969-68f2055cfb3e.jpg)
+![Screenshot_2022-12-06-15-15-15-910_com WeeGames deCube](https://user-images.githubusercontent.com/118690121/205923505-4e23c6d1-ae4e-4ae2-b14f-41e3406a324e.jpg)
